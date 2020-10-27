@@ -1,0 +1,110 @@
+{
+  "status": 200,
+  "status_message": "Item Found",
+  "appname": "Black Video Player",
+  "MainAppLink": "https://play.google.com/store/apps/details?id=com.hd.videoplayer.blackvideoplayers",
+  "data": [
+    {
+            "appName": "Yes Video Player",
+            "appIcon": "https://lh3.googleusercontent.com/HchNZkheKz9jMpqgGEs17L86pQXN809kBE1OByf5QPbCaFS0tNUn2UEdBt12Z3T0lefs=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.hd.videoplayer.yesvideoplayers"
+        },
+        {
+            "appName": "Internet Speed Meter",
+            "appIcon": "https://lh3.googleusercontent.com/ct24gNSa4J821uU6Hrf06Ke8JCNf8AWIPuXXSi29VlkR7ZgX-YyuaD5AaA3zxB_S4GJ6=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.marga.internetspeedmeter"
+        },
+        {
+            "appName": "1000000+ Love Messages",
+            "appIcon": "https://lh3.googleusercontent.com/EmFW2U0uQclOcpEVZNy2FNbccPC0xib0tYDwPukH-QKKHuH6W7eFd-FAJizsMbPqVsU=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=newquotes.com.lovequotes.romentticlovemessages"
+        },
+        {
+            "appName": "QQ Player",
+            "appIcon": "https://lh3.googleusercontent.com/SHQ7DrM0sXyubI2CvmBJAW-YgDXYQsoG-mJtkXT3CUZfd8EFCj8ri7sI3R6fd6KPl6_D=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.hd.videoplayer.saxvideoplayers"
+        },
+        {
+            "appName": "Gallery Pro",
+            "appIcon": "https://lh3.googleusercontent.com/5tk40B86K7PYIOOztCPZUZ4KYutBgWhKXKvmi2PP783rTFqrC9yiOoXgkfVFe1j_wg=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.photogallery.photovideogallery"
+        },
+     {
+            "appName": "Audio Payer",
+            "appIcon": "https://lh3.googleusercontent.com/CaAMOJ3Wuasdp38W7qul9REIXpl-NCcthA0NKmu7Qel6PEimLodK9-Qrjial6s_cayw=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.musicplayer.awesomeaudieoplayer"
+        },
+     {
+            "appName": "SpeedTest",
+            "appIcon": "https://lh3.googleusercontent.com/Tx0tBn_CiDmZTvFzDzN0G6jLOmQZ21gNOR6i4LMKDJxRlmEnB7hmHj6H_eIHNofY-Jat=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.internetspeedmeter.speedtestspeedtest"
+        },
+     {
+            "appName": "PixLab Editor",
+            "appIcon": "https://lh3.googleusercontent.com/OanlwWEouwBem3fPI2IUZ0x68RLHcGQst7t16JK8Jr3JvKisd89mn4A0ycopMZe0ilk=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.photocollagepic.pixlabphotoeditor"
+        },
+     {
+            "appName": "Gallery 2020",
+            "appIcon": "https://lh3.googleusercontent.com/deAAHxgu8YK6WChPzwKyglP3Dk-J8J7i1R68t40sSFEnyyIfihvTOWYPdQFIfqGKi4w=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.gallerynew.newphotovideogallery"
+        },
+     {
+            "appName": "PhotoLab",
+            "appIcon": "https://lh3.googleusercontent.com/tUPL4Ag-3HpwDI7o5dtDdv0bFFr00y8W_kZz_-S8PCpPV364SFQTpg6Y-OmktFpyh1Y=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.colorlabphotoeditor.photolabphotoeditor"
+        },
+     {
+            "appName": "Pixlr -Free Photo Editor",
+            "appIcon": "https://lh3.googleusercontent.com/4Ntr4VFTkg2UhWuj3b8JSGJnlF2qHd_dDz0XN_UhhFq8ja0pHZAuEIO-fH5epVQIf5k_=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.photocollagepic.pixlrphotoeditor"
+        },
+     {
+            "appName": "Black Music Player",
+            "appIcon": "https://lh3.googleusercontent.com/MWDVKug5npmwzLRl6A2eb7MJg33mMqpSdC6qWLuxlpmJnX5SjVufY-iBRSXLowR5vbE=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.musicplayer.blackmusicplayer"
+        },
+     {
+            "appName": "Gallery Pro 2020",
+            "appIcon": "https://lh3.googleusercontent.com/ttfQYoJjcrx1E494xXDYLQ1GQyj_jaJdW9IDWk_3BwOwu9oxdY91L92QPGdYcG6r3z8=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.migallery.miphotovideogallery"
+        },
+     {
+            "appName": "Music Player",
+            "appIcon": "https://lh3.googleusercontent.com/vqg4u-4wCMbbUmGxOnJCeIFTXJJwsqmCihoiXZbwYV99dYjCTpobQoJ3muGgLgAlUDY=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.musicplayer.awesomemusicplayer"
+        },
+     {
+            "appName": "4K HD Wallpaper",
+            "appIcon": "https://lh3.googleusercontent.com/ftcZ5Yf9ihXbAS2RYX--UjbFdyfI3zPBriCPCKnb0MHaqjGyrv2IJrWFZWrAFDecHw=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.freewallpaper.hdwallpaperlivewall"
+        },
+     {
+            "appName": "Collage Maker",
+            "appIcon": "https://lh3.googleusercontent.com/ZSesiLpimAJs-xzOocC-L5bN-fMLuiQj3YmGUJiAAaDj97KUNTfsPZeZCcHO5fTmKg=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.photocollagepic.collagemaker"
+        },
+     {
+            "appName": "T Tok Indian Video Status",
+            "appIcon": "https://lh3.googleusercontent.com/rB865JArQTJX7qFr6sD44HvkVEHxC34WEB9h7UMUVbaLCy6OVB6egXuk27JyKPV2DpU=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.hd.videoplayer.widdymatevideoplayer"
+        },
+     {
+            "appName": "Gallery HD -Hide Photos & Videos",
+            "appIcon": "https://lh3.googleusercontent.com/8ttK3tA6ryBls_nfz2hV3_F_il9tTSLBxFJjj0DFO963A9pLXW2IeIVmJvh_Ho1aaK0u=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.test.gallery.pro"
+        },
+     {
+            "appName": "TikTik Wallpaper",
+            "appIcon": "https://lh3.googleusercontent.com/2hJga_nJ-Kf1DQzI4c5GSR2nuZrIEUwgd4wfdDGnI4YDYz-DvrZ4AScdprRYM8lrTdg=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.freewallpaper.hdwallpaperlivewallthree"
+        },
+     {
+            "appName": "ColorLab - Photo Editor",
+            "appIcon": "https://lh3.googleusercontent.com/ogek5aFnnTgaF9HjwXM-VCn62Iu381F6CJog8d9YN8CIkSa4YUtm3A-LAr2UT43TT10=s180-rw",
+            "appLink": "https://play.google.com/store/apps/details?id=com.colorlabphotoeditor.photoeditor"
+        }
+    
+        
+  ]
+}

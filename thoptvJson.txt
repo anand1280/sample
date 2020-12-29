@@ -1,5 +1,5 @@
 {
 "Facebook_Banner":"",
 "Facebook_Int":"",
-"IronSource_Int":""
+"IronSource_ID":""
 }

@@ -1,5 +1,5 @@
 {
 "Facebook_Banner":"YOUR_PLACEMENT_ID",
 "Facebook_Int":"YOUR_PLACEMENT_ID",
-"IronSource_ID":"ssdsdsdsdsd"
+"IronSource_ID":""
 }

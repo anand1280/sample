@@ -1,5 +1,5 @@
 {
-"Facebook_Banner":"YOUR_PLACEMENT_ID",
-"Facebook_Int":"YOUR_PLACEMENT_ID",
+"Facebook_Banner":"415975229839928_415975483173236",
+"Facebook_Int":"415975229839928_415975759839875",
 "IronSource_ID":""
 }

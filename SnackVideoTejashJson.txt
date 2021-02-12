@@ -4,5 +4,5 @@
 "Facebook_Native_Ad":"218764583040950_228789238705151",
 "Facebook_Native_Banner":"218764583040950_229226381994770",
 "IronSource_ID":"e5a52f31",
-"Google_Admob_Int":"ca-app-pub-3940256099942544/1033173712"
+"Google_Admob_Int":"ca-app-pub-5967483706834767/8448511059"
 }

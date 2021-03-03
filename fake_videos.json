@@ -1,6 +1,6 @@
 {
     "status_code": 200,
-    "count":70,
+    "count":69,
     "data": [
         {
             "video": "http://ec2-3-20-232-122.us-east-2.compute.amazonaws.com/videoes/Fake-Vieo-Zip/fake_1.mp4"

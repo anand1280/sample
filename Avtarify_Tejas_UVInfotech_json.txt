@@ -3,6 +3,7 @@
 "Facebook_Int":"YOUR_PLACEMENT_ID",
 "Facebook_Native_Ad":"YOUR_PLACEMENT_ID",
 "Facebook_Native_Banner":"YOUR_PLACEMENT_ID",
-"flag":"0"
-"IronSource_ID":""
+"flag":"0",
+"IronSource_ID":"",
+"ADMob_Int":"ca-app-pub-3940256099942544/1033173712"
 }

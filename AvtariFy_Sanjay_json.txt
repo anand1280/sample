@@ -1,8 +1,8 @@
 {
 "Facebook_Banner":"YOUR_PLACEMENT_ID",
-"Facebook_Int":"YOUR_PLACEMENT_ID",
-"Facebook_Native_Ad":"YOUR_PLACEMENT_ID",
-"Facebook_Native_Banner":"YOUR_PLACEMENT_ID",
+"Facebook_Int":"703825180536173_716843175901040",
+"Facebook_Native_Ad":"703825180536173_783460499239307",
+"Facebook_Native_Banner":"703825180536173_703826257202732",
 "flag":"2",
 "IronSource_ID":"",
 "ADMob_Int":"ca-app-pub-3940256099942544/1033173712"

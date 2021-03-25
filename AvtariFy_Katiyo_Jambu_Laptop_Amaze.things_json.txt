@@ -5,5 +5,5 @@
 "Facebook_Native_Banner":"627327421287139_627333751286506",
 "flag":"2",
 "IronSource_ID":"",
-"ADMob_Int":"ca-app-pub-3940256099942544/1033173712"
+"ADMob_Int":""
 }

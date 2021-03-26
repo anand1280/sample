@@ -3,5 +3,7 @@
 "Facebook_Int":"480530212991260_480531396324475",
 "Facebook_Native_Ad":"480530212991260_480530562991225",
 "Facebook_Native_Banner":"480530212991260_480530892991192",
-"IronSource_ID":""
+"flag":"2",
+"IronSource_ID":"",
+"ADMob_Int":"ca-app-pub-3940256099942544/1033173712"
 }

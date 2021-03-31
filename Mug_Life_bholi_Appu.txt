@@ -6,5 +6,5 @@
 "flag":"2",
 "IronSource_ID":"",
 "ADMob_Int":"",
-"gif_link":"https://elastic-edison-ee5475.netlify.app/gif.json12123"
+"gif_link":""
 }

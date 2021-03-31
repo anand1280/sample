@@ -5,5 +5,6 @@
 "Facebook_Native_Banner":"YOUR_PLACEMENT_ID",
 "flag":"2",
 "IronSource_ID":"",
-"ADMob_Int":""
+"ADMob_Int":"",
+"gif_link":""
 }

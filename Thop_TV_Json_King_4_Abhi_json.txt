@@ -1,6 +1,6 @@
 {
-"Facebook_Banner":"YOUR_PLACEMENT_ID",
-"Facebook_Int":"YOUR_PLACEMENT_ID",
+"Facebook_Banner":"1123131",
+"Facebook_Int":"sfsfs",
 "Facebook_Native_Ad":"YOUR_PLACEMENT_ID",
 "Facebook_Native_Banner":"YOUR_PLACEMENT_ID",
 "IronSource_ID":""

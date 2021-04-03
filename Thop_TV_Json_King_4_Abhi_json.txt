@@ -7,5 +7,6 @@
 "IronSource_ID":"",
 "livescore_flag":"2",
 "ADMob_Int":"ca-app-pub-3940256099942544/1033173712",
-"Open_Ad" :"ca-app-pub-3940256099942544/3419835294"
+"Open_Ad" :"ca-app-pub-3940256099942544/3419835294",
+"App_Remove_flag":"1"
 }

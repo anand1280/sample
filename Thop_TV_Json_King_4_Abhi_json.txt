@@ -6,7 +6,7 @@
 "flag":"2",
 "IronSource_ID":"",
 "livescore_flag":"2",
-"ADMob_Int":"ca-app-pub-3940256099942544/1033173712",
+"ADMob_Int":"",
 "Open_Ad" :"",
 "App_Remove_flag":"1",
 "Play_Store_New_Url":""

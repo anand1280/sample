@@ -10,5 +10,6 @@
 "Open_Ad" :"ca-app-pub-3940256099942544/3419835294",
 "App_Remove_flag":"1",
 "Play_Store_New_Url":"https://play.google.com/store/apps/details?id=com.photocollagepic.muglifesanjayforuser",
-"qureka_link":"http://893.win.qureka.com"
+"qureka_link":"http://893.win.qureka.com",
+"qureka_Visible":"2"
 }

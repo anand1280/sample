@@ -5,7 +5,7 @@
 "Facebook_Native_Banner":"462221068454872_462222005121445",
 "flag":"2",
 "IronSource_ID":"",
-"livescore_flag":"1",
+"livescore_flag":"2",
 "ADMob_Int":"/38047625/com.thoptvguid.thoptvguidking1234.interstitial",
 "Open_Ad" :"/38047625/com.thoptvguid.thoptvguidking1234.openapp",
 "App_Remove_flag":"1",

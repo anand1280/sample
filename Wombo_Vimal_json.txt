@@ -6,5 +6,6 @@
 "flag":"2",
 "IronSource_ID":"",
 "ADMob_Int":"",
-"qureka_link":"http://893.win.qureka.com"
+"qureka_link":"http://893.win.qureka.com",
+"qureka_Visible":"1"
 }

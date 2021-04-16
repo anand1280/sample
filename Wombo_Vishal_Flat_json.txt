@@ -9,7 +9,7 @@
 "qureka_link":"http://893.win.qureka.com",
 "qureka_Visible":"1",
 "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
-"Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+"Admob_Native":"",
 "Open_Ad" :"ca-app-pub-3940256099942544/3419835294",
 "App_Remove_flag":"1",
 "Play_Store_New_Url":"https://play.google.com/store/apps/details?id=com.photocollagepic.muglifesanjayforuser",

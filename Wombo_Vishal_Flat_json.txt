@@ -7,7 +7,7 @@
 "IronSource_ID":"",
 "ADMob_Int":"ca-app-pub-3940256099942544/1033173712",
 "qureka_link":"http://893.win.qureka.com",
-"qureka_Visible":"2",
+"qureka_Visible":"1",
 "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
 "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
 "Open_Ad" :"ca-app-pub-3940256099942544/3419835294",

@@ -1,4 +1,3 @@
-
 {
 "Facebook_Banner":"YOUR_PLACEMENT_ID",
 "Facebook_Int":"271784371340538_271785221340453",
@@ -6,7 +5,7 @@
 "Facebook_Native_Banner":"271784371340538_271786024673706",
 "flag":"2",
 "IronSource_ID":"",
-"livescore_flag":"2",
+"livescore_flag":"1",
 "ADMob_Int":"ca-app-pub-1130601488291388/7168882075",
 "Admob_Banner":"ca-app-pub-1130601488291388/7195628772",
 "Admob_Native":"ca-app-pub-1130601488291388/4572840022",

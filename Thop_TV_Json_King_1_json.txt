@@ -11,7 +11,7 @@
 "Admob_Native":"",
 "Open_Ad" :"",
 "App_Remove_flag":"2",
-"Play_Store_New_Url":"https://play.google.com/store/apps/details?id=com.thoptvguid.thoptvguidking2",
+"Play_Store_New_Url":"https://play.google.com/store/apps/details?id=com.scratchtowin.onlysratchapp",
 "qureka_link":"http://893.win.qureka.com",
 "qureka_Visible":"2",
 "Ipl_web_page_load" : "2",
